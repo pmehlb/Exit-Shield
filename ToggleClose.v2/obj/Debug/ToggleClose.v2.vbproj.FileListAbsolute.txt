@@ -1,0 +1,13 @@
+C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2\bin\Debug\ToggleClose.v2.exe.config
+C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2\bin\Debug\ToggleClose.v2.exe
+C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2\bin\Debug\ToggleClose.v2.pdb
+C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2\bin\Debug\ToggleClose.v2.xml
+C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2\obj\Debug\ToggleClose.v2.vbprojAssemblyReference.cache
+C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2\obj\Debug\ToggleClose.v2.Resources.resources
+C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2\obj\Debug\ToggleClose.v2.vbproj.GenerateResource.cache
+C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2\obj\Debug\ToggleClose.v2.vbproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2\obj\Debug\ToggleClose.v2.exe
+C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2\obj\Debug\ToggleClose.v2.xml
+C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2\obj\Debug\ToggleClose.v2.pdb
+C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2\obj\Debug\ToggleClose.v2.SelectProc.resources
+C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2\obj\Debug\ToggleClose.v2.AppForm.resources
