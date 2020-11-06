@@ -70,7 +70,7 @@ Partial Class SelectProc
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.Color.Silver
+        Me.BackColor = System.Drawing.Color.Gainsboro
         Me.ClientSize = New System.Drawing.Size(344, 321)
         Me.Controls.Add(Me.lblProcess)
         Me.Controls.Add(Me.btnSelect)

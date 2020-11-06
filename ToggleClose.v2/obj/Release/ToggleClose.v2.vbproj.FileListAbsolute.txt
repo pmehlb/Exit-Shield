@@ -10,3 +10,4 @@ C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2
 C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2\obj\Release\ToggleClose.v2.exe
 C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2\obj\Release\ToggleClose.v2.xml
 C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2\obj\Release\ToggleClose.v2.pdb
+C:\Users\Pat\Documents\Visual Studio 2019\Projects\ToggleClose.v2\ToggleClose.v2\obj\Release\ToggleClose.v2.vbprojAssemblyReference.cache
