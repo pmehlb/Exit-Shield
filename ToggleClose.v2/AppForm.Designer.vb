@@ -56,6 +56,7 @@ Partial Class AppForm
         Me.btnAttach.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.btnAttach.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnAttach.Font = New System.Drawing.Font("Corbel", 15.0!)
+        Me.btnAttach.ForeColor = System.Drawing.SystemColors.ControlText
         Me.btnAttach.Location = New System.Drawing.Point(15, 84)
         Me.btnAttach.Margin = New System.Windows.Forms.Padding(6)
         Me.btnAttach.Name = "btnAttach"

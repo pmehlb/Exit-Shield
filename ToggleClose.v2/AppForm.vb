@@ -54,17 +54,34 @@ Public Class AppForm
         ' cool, now check the toggle value and perform operations :o
         If (toggle = False) Then
             disableX()
+
             btnToggle.Text = "Unlock App"
             btnToggle.BackColor = Color.DarkGray
             btnToggle.FlatAppearance.MouseOverBackColor = Color.DimGray
+
+            btnAttach.Enabled = False
+            btnAttach.ForeColor = Color.DarkGray
+            btnAttach.FlatAppearance.BorderColor = Color.DarkGray
+
             toggle = True
         Else
             enableX()
+
             btnToggle.Text = "Lock App"
             btnToggle.BackColor = Color.Gainsboro
             btnToggle.FlatAppearance.MouseOverBackColor = Color.DarkGray
+
+            btnAttach.Enabled = True
+            btnAttach.ForeColor = Color.Black
+            btnAttach.FlatAppearance.BorderColor = Color.Black
+
             toggle = False
         End If
+    End Sub
+
+    ' make sure we re-enable the process before quitting!
+    Private Sub AppForm_Closing(ByVal sender As Object, ByVal e As System.ComponentModel.CancelEventArgs) Handles Me.Closing
+        enableX()
     End Sub
 
     Public Sub updateAttachedProcess(processName As String, processHandle As Process)
@@ -86,5 +103,4 @@ Public Class AppForm
     Public Sub enableX()
         EnableMenuItem(GetSystemMenu(selectedHandle, False), SC_CLOSE, MF_ENABLED)
     End Sub
-
 End Class
